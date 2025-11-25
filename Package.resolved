@@ -1,0 +1,105 @@
+{
+  "originHash" : "380790d42df27a6a8059d608ee4d7140387183de512452901ccb9b15ab7404f7",
+  "pins" : [
+    {
+      "identity" : "basiclogging",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swiftxml/BasicLogging.git",
+      "state" : {
+        "revision" : "ba91cb81aa105a83625e13ecb37bbe0aba34fe38",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "localization",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swiftxml/Localization.git",
+      "state" : {
+        "revision" : "e3516448e09b381c3fcb7d337f1800432782d8eb",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "logginginterfaces",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swiftxml/LoggingInterfaces.git",
+      "state" : {
+        "revision" : "c27acbb871530b4f09f4a1a09556e7e9e386447f",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "pipeline",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swiftxml/Pipeline.git",
+      "state" : {
+        "revision" : "c9917cc2250556a393847e013c086a343559a930",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "pipelinebasiclogging",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swiftxml/PipelineBasicLogging.git",
+      "state" : {
+        "revision" : "db0fbf82993aae930b551de8a30ea1a66b0f4599",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "pipelineextensionsforswiftxml",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swiftxml/PipelineExtensionsForSwiftXML.git",
+      "state" : {
+        "revision" : "064fc734871b763daf89de24ec29b805ff4a910f",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "pipelineloggingbinding",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swiftxml/PipelineLoggingBinding.git",
+      "state" : {
+        "revision" : "4f8ec170f49ac9be47f6ac3321f052d503503ead",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "swift-syntax",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-syntax.git",
+      "state" : {
+        "revision" : "4799286537280063c85a32f09884cfbca301b1a1",
+        "version" : "602.0.0"
+      }
+    },
+    {
+      "identity" : "swiftxml",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swiftxml/SwiftXML.git",
+      "state" : {
+        "revision" : "b40925bcd80039b59273301711fb1d62686e6cf2",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "swiftxmlinterfaces",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swiftxml/SwiftXMLInterfaces",
+      "state" : {
+        "revision" : "6456fe6b3afb9e4d2f0c02925e78ca6c5d128cb1",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "swiftxmlparser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swiftxml/SwiftXMLParser",
+      "state" : {
+        "revision" : "606f7364bc8bf97d0f5ad9d6fb545ce57ce8f9ac",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
