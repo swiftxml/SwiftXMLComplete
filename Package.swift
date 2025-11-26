@@ -19,8 +19,8 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(url: "https://github.com/swiftxml/Pipeline.git", from: "1.0.0"),
-        .package(url: "https://github.com/swiftxml/PipelineBasicLogging.git", from: "1.0.0"),
+        .package(url: "https://github.com/swiftxml/Pipeline.git", from: "1.0.1"),
+        .package(url: "https://github.com/swiftxml/PipelineBasicLogging.git", from: "1.0.1"),
         .package(url: "https://github.com/swiftxml/SwiftXML.git", from: "1.0.0"),
         .package(url: "https://github.com/swiftxml/PipelineExtensionsForSwiftXML.git", from: "1.0.0"),
     ],
