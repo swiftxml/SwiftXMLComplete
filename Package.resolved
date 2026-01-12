@@ -1,5 +1,5 @@
 {
-  "originHash" : "49bfa3a62e1da4fd11d6b2035b196c88efa279dd7008c1ffc10bda0ec2c3837a",
+  "originHash" : "132383999f8094936e6ffc44d76789fa47586007b043dc9a2a496fe7432ab9f4",
   "pins" : [
     {
       "identity" : "basiclogging",
@@ -51,8 +51,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/swiftxml/PipelineExtensionsForSwiftXML.git",
       "state" : {
-        "revision" : "064fc734871b763daf89de24ec29b805ff4a910f",
-        "version" : "1.0.0"
+        "revision" : "85fc8c829a9024a6e13b9a568337ba7149506a1d",
+        "version" : "2.0.0"
       }
     },
     {
@@ -78,8 +78,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/swiftxml/SwiftXML.git",
       "state" : {
-        "revision" : "b40925bcd80039b59273301711fb1d62686e6cf2",
-        "version" : "1.0.0"
+        "revision" : "d9a510ff3922000c5e3b9994557b23a3832ca48a",
+        "version" : "2.0.9"
       }
     },
     {
@@ -96,8 +96,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/swiftxml/SwiftXMLParser",
       "state" : {
-        "revision" : "606f7364bc8bf97d0f5ad9d6fb545ce57ce8f9ac",
-        "version" : "1.0.0"
+        "revision" : "06824bdf1810cc6c031ccb87377faeca98aa2c9e",
+        "version" : "2.0.0"
       }
     }
   ],
