@@ -1,5 +1,5 @@
 {
-  "originHash" : "30b118456b9d7d94515b17de9cde1f1eebb5ce290ecd4893061ebe396fbb02f7",
+  "originHash" : "371725fb6537427b9ad95c6fb527a271766eee52333d39e671ccf2c9014487ea",
   "pins" : [
     {
       "identity" : "basiclogging",
@@ -33,8 +33,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/swiftxml/Pipeline.git",
       "state" : {
-        "revision" : "da43e031d88fcab505df18ab347f7b8909d0c4f0",
-        "version" : "1.0.7"
+        "revision" : "36d833d63a05c5904f504080c9cbbd759b13c043",
+        "version" : "1.0.8"
       }
     },
     {
@@ -42,8 +42,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/swiftxml/PipelineBasicLogging.git",
       "state" : {
-        "revision" : "f8867a892b3de737b79ad9f3e076885332541511",
-        "version" : "1.0.6"
+        "revision" : "981680484b36b460b59af925f4ce2f635f66d926",
+        "version" : "1.0.7"
       }
     },
     {
@@ -51,8 +51,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/swiftxml/PipelineExtensionsForSwiftXML.git",
       "state" : {
-        "revision" : "828b88aa7dfd5c21c193f0a1526144984ac994db",
-        "version" : "2.0.4"
+        "revision" : "af55f2c58f9115ba9269eaadb23ec249974c9acf",
+        "version" : "2.0.5"
       }
     },
     {
@@ -60,8 +60,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/swiftxml/PipelineLoggingBinding.git",
       "state" : {
-        "revision" : "b89861fa9b35603d2ce54a885d9f0334e688456e",
-        "version" : "1.0.7"
+        "revision" : "18003e071316124283de92502dc0202a64fcc277",
+        "version" : "1.0.8"
       }
     },
     {
