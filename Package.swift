@@ -19,10 +19,10 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(url: "https://github.com/swiftxml/Pipeline.git", from: "1.0.4"),
-        .package(url: "https://github.com/swiftxml/PipelineBasicLogging.git", from: "1.0.3"),
+        .package(url: "https://github.com/swiftxml/Pipeline.git", from: "1.0.6"),
+        .package(url: "https://github.com/swiftxml/PipelineBasicLogging.git", from: "1.0.5"),
         .package(url: "https://github.com/swiftxml/SwiftXML.git", from: "2.0.9"),
-        .package(url: "https://github.com/swiftxml/PipelineExtensionsForSwiftXML.git", from: "2.0.2"),
+        .package(url: "https://github.com/swiftxml/PipelineExtensionsForSwiftXML.git", from: "2.0.3"),
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
